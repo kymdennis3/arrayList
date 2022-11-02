@@ -14,6 +14,7 @@ public class Main {
         food.add("Hamburger");
 
         food.set(0,"Ugali");
+        food.remove(2);
 
         for(int i = 0; i< food.size(); i++){
         System.out.println(food.get(i));
