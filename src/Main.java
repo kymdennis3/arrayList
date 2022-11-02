@@ -15,6 +15,7 @@ public class Main {
 
         food.set(0,"Ugali");
         food.remove(2);
+        food.clear();
 
         for(int i = 0; i< food.size(); i++){
         System.out.println(food.get(i));
