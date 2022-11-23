@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc202905-81d3-4322-a47d-ca628e719fee" name="Changes" comment="used function .remove() to remove an element">
+    <list default="true" id="bc202905-81d3-4322-a47d-ca628e719fee" name="Changes" comment="used function .clear() to clear the ArrayList">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667365832206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="used function .clear() to clear the ArrayList">
+      <created>1667365910283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667365910283</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,6 +79,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="used function .set() to replace an element" />
     <MESSAGE value="used function .remove() to remove an element" />
-    <option name="LAST_COMMIT_MESSAGE" value="used function .remove() to remove an element" />
+    <MESSAGE value="used function .clear() to clear the ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="used function .clear() to clear the ArrayList" />
   </component>
 </project>
